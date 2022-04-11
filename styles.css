@@ -107,7 +107,7 @@ footer {
 
 .drum {
   outline: none;
-  border: 10px solid #404b69;
+  /* border: 2px solid white; */
   font-size: 5rem;
   font-family: "Arvo", cursive;
   line-height: 2;
